@@ -9,3 +9,30 @@ I am an experienced Senior Front End Developer with a strong proficiency in Reac
 - 🤝 I'm open to collaborating on Open source projects..
 
  ## SKIILLS
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+ 
+  <a href="https://reactjs.org">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
+<p align="center">
+ <a href="https://www.w3.org/TR/CSS/#css">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+ <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+ 
+  <a href="https://mui.com/material-ui/">
+    <img src="https://skillicons.dev/icons?i=materialui" />
+  </a>
+</p>
