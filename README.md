@@ -8,4 +8,4 @@ I am an experienced Senior Front End Developer with a strong proficiency in Reac
 - 💼 I'm learning Every Day
 - 🤝 I'm open to collaborating on Open source projects..
 
-  SKIILLS
+ ## SKIILLS
