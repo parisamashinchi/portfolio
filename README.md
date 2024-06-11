@@ -1,4 +1,4 @@
-## Hi 👋 MY NAMA IS PARISA MASHINCHI GHABEL
+## Hi 👋 MY NAME IS PARISA MASHINCHI GHABEL
 
 I am an experienced Senior Front End Developer with a strong proficiency in React and a track record of delivering high-quality web applications. Skilled in translating design into code, optimizing performance, and ensuring cross-browser compatibility. I collaborate effectively with designers and backend developers to consistently deliver exceptional user experiences.
 
@@ -23,8 +23,6 @@ I am an experienced Senior Front End Developer with a strong proficiency in Reac
   <a href="https://reactjs.org">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
-</p>
-<p align="center">
  <a href="https://www.w3.org/TR/CSS/#css">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
@@ -35,21 +33,14 @@ I am an experienced Senior Front End Developer with a strong proficiency in Reac
   <a href="https://mui.com/material-ui/">
     <img src="https://skillicons.dev/icons?i=materialui" />
   </a>
-</p>
-<p>
- <a href="https://www.w3.org/TR/CSS/#css">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" >
- </a>
-  <a href="https://getbootstrap.com/" >
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" >
-  </a>
+
  <a href="https://redux.js.org/" >
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" >
+  <img src="https://skillicons.dev/icons?i=redux" >
  </a>
  <a href="https://nodejs.org/en/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
+  <img rc="https://skillicons.dev/icons?i=nodejs">
  </a>
  <a href="https://www.mongodb.com/">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" >
+  <img src="https://skillicons.dev/icons?i=mongodb" >
  </a>
 </p>
