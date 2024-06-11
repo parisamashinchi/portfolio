@@ -36,3 +36,20 @@ I am an experienced Senior Front End Developer with a strong proficiency in Reac
     <img src="https://skillicons.dev/icons?i=materialui" />
   </a>
 </p>
+<p>
+ <a href="https://www.w3.org/TR/CSS/#css">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" >
+ </a>
+  <a href="https://getbootstrap.com/" >
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" >
+  </a>
+ <a href="https://redux.js.org/" >
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" >
+ </a>
+ <a href="https://nodejs.org/en/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg">
+ </a>
+ <a href="https://www.mongodb.com/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" >
+ </a>
+</p>
