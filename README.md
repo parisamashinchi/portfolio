@@ -5,10 +5,10 @@ Hi there 👋, I'm Parisa Mashinchi Ghabel
 I am an experienced Senior Front End Developer with a strong proficiency in React and a track record of delivering high-quality web applications. Skilled in translating design into code, optimizing performance, and ensuring cross-browser compatibility. I collaborate effectively with designers and backend developers to consistently deliver exceptional user experiences.
 
 
--🌍 Based in: Berlin, Germany
--💼 Constant Learner: Exploring new technologies daily to stay ahead.
--🤝 Open to Collaborations: Excited to contribute to open-source projects.
--💌 Reach me at: parisamashinchi@gmail.com
+`___`🌍 Based in: Berlin, Germany
+`___`💼 Constant Learner: Exploring new technologies daily to stay ahead.
+`___`🤝 Open to Collaborations: Excited to contribute to open-source projects.
+`___`💌 Reach me at: parisamashinchi@gmail.com
 
 🔧 Skills & Tools
 
@@ -49,9 +49,9 @@ I am an experienced Senior Front End Developer with a strong proficiency in Reac
 </p>
 
 🌈 Fun Facts About Me
--I love exploring new tech and trends in frontend development.
--My dream is to contribute to impactful open-source projects that empower developers.
--Outside of work, you’ll often find me biking around Berlin!
+`___`I love exploring new tech and trends in frontend development.
+`___`My dream is to contribute to impactful open-source projects that empower developers.
+`___`Outside of work, you’ll often find me biking around Berlin!
 
 🎯 Let's Connect!
 💼 <a href="https://www.linkedin.com/in/parisa-mashinchi-8a1b2266" >LinkedIn</a>
