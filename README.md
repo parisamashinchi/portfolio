@@ -45,3 +45,7 @@ I am an experienced Senior Front End Developer with a strong proficiency in Reac
   <img src="https://skillicons.dev/icons?i=mongodb" >
  </a>
 </p>
+
+🎯 Let's Connect!
+💼 <a href="https://www.mongodb.com/](https://www.linkedin.com/in/parisa-mashinchi-8a1b2266" >LinkedIn</a>
+// 🛠️ Portfolio (Link to your portfolio if you have one)
