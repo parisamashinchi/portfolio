@@ -7,11 +7,13 @@ I am an experienced Senior Front End Developer with a strong proficiency in Reac
 
 ### 🌍 **About Me**
 
-- **Location:** Berlin, Germany
-- 
-- -💼 Constant Learner: Exploring new technologies daily to stay ahead.
--🤝 Open to Collaborations: Excited to contribute to open-source projects.
--💌 Reach me at: parisamashinchi@gmail.com
+ **Location:** Berlin, Germany
+
+💼 Constant Learner: Exploring new technologies daily to stay ahead.
+
+🤝 Open to Collaborations: Excited to contribute to open-source projects.
+
+💌 Reach me at: parisamashinchi@gmail.com
 
 ### 🔧 **Skills & Tools**
 
@@ -53,10 +55,11 @@ I am an experienced Senior Front End Developer with a strong proficiency in Reac
 </p>
 
 ### 🌈 **Fun Facts About Me**
--I love exploring new tech and trends in frontend development.
+I love exploring new tech and trends in frontend development.
 
--My dream is to contribute to impactful open-source projects that empower developers.
--Outside of work, you’ll often find me biking around Berlin!
+My dream is to contribute to impactful open-source projects that empower developers.
+
+Outside of work, you’ll often find me biking around Berlin!
 
 🎯 Let's Connect!
 💼 <a href="https://www.linkedin.com/in/parisa-mashinchi-8a1b2266" >LinkedIn</a>
